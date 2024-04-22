@@ -6,19 +6,27 @@ It is very imporatant to maintain efficient software to handle information of a 
 This application provides a way to record this information and to access these in a simple way.
 
 ### UML DIAGRAMS:
+```
+DEVELOPED BY: VIGNESH M
+REG.NO:212223240176
+```
 ## Usecase Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/46eae1cd-9591-405e-8a0e-c9df59782282)
+![Screenshot 2024-04-22 113201](https://github.com/vigneshvickyu/LAB-4-Hospital-Management/assets/151948835/fa75f634-6c80-4fea-aa97-9d65044b4f1b)
+
 ## Sequence Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/eea13653-110d-43a3-9f39-bda0e7c0db41)
-## Statechart Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/9f1680e9-7e07-4654-8e22-84a0980b7672)
+![Screenshot 2024-04-22 113318](https://github.com/vigneshvickyu/LAB-4-Hospital-Management/assets/151948835/3ec4e8c5-1c30-4a76-b46f-564f925fb6f7)
+
 ## Class Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/b7a8869f-13a5-41f0-8eb0-2575af96fc69)
+![Screenshot 2024-04-22 113306](https://github.com/vigneshvickyu/LAB-4-Hospital-Management/assets/151948835/eeb6fed2-e765-43e1-b250-002d8efd2d75)
+
 ## Activity Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/921042da-2023-4388-beea-150d4d5de45a)
+![Screenshot 2024-04-22 113347](https://github.com/vigneshvickyu/LAB-4-Hospital-Management/assets/151948835/8671152a-7504-4c35-ace4-bd47a1d17e87)
+
 ## Communication Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/d01ed0aa-279d-4456-9a94-050f5a6f10d5)
+![Screenshot 2024-04-22 113327](https://github.com/vigneshvickyu/LAB-4-Hospital-Management/assets/151948835/3e4d68f4-6e29-47b5-86d4-1e12273db008)
+
 ## Package Diagram:
-![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/6ad8b234-e206-45a7-920c-762446d933af)
+![Screenshot 2024-04-22 113253](https://github.com/vigneshvickyu/LAB-4-Hospital-Management/assets/151948835/6c86a78e-96b7-4feb-935a-7c237458fc82)
+
 ### RESULT:
 Thus the Hospital management System project was executed and the output was verified.
