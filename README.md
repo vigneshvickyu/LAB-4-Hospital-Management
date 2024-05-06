@@ -25,6 +25,9 @@ REG.NO:212223240176
 ## Communication Diagram:
 ![Screenshot 2024-04-22 113327](https://github.com/vigneshvickyu/LAB-4-Hospital-Management/assets/151948835/3e4d68f4-6e29-47b5-86d4-1e12273db008)
 
+## State chart diagram:
+![Screenshot 2024-05-06 112648](https://github.com/vigneshvickyu/LAB-4-Hospital-Management/assets/151948835/628b8382-b86a-45c4-8073-9d4f2fdb5526)
+
 ## Package Diagram:
 ![Screenshot 2024-04-22 113253](https://github.com/vigneshvickyu/LAB-4-Hospital-Management/assets/151948835/6c86a78e-96b7-4feb-935a-7c237458fc82)
 
